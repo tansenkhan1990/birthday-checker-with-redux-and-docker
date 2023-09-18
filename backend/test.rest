@@ -1,0 +1,8 @@
+###
+POST http://localhost:3333/auth
+
+###
+GET  http://localhost:3333/protected
+
+###
+GET  http://localhost:3333/logout
